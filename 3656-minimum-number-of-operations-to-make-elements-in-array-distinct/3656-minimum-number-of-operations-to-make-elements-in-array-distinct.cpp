@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // BRUTE FORCE APPROACH
+    // TC = O(N^2);
     void removeFirst(vector<int>& nums){
         if(nums.size()>=3){
             // remove first three
