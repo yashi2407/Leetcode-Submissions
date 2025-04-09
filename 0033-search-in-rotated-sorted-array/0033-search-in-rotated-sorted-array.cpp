@@ -9,10 +9,11 @@ public:
             }
             // check if left sorted
             if (nums[low] <= nums[mid]) {
+                //element inside the sorted half
                 if (target >= nums[low] && target < nums[mid]) {
                     high = mid - 1;
                 } else {
-                    low = mid + 1;
+                    low = mid + 1;//element not inside the sorted half hence in right half
                 }
             }
             // Right side is sorted
