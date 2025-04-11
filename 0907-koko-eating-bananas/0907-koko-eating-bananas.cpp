@@ -8,9 +8,8 @@ public:
         return totalHours;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
-        sort(piles.begin(),piles.end());
         int low = 1;
-        int high = piles[piles.size()-1];
+        int high = *max_element(piles.begin(), piles.end());
         int ans = -1;
         while(low<=high){
             int mid = (low+high)/2;
