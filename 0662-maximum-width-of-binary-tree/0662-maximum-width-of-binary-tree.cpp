@@ -16,9 +16,6 @@ public:
         if(root){
             q.push({root,1});
         }
-        if(root->left == NULL && root->right == NULL){
-            return 1;
-        }
         long long maxWidth = 1;
         while(!q.empty()){
             if(q.size()>=2){
