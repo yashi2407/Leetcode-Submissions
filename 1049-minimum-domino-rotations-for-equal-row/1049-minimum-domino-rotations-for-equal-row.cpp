@@ -1,34 +1,63 @@
 class Solution {
 public:
     int minDominoRotations(vector<int>& tops, vector<int>& bottoms) {
-        int n = tops.size();
-        int rotationsNeeded = tryValue(tops[0], tops, bottoms, n);
+        // Count frequencies of values in tops array
+        map<int, int> topFreq;
+        int topMaxCount = 0;
+        int topMaxElement = 0;
         
-        // If tops[0] doesn't work, try bottoms[0]
-        if (rotationsNeeded != -1) return rotationsNeeded;
-        return tryValue(bottoms[0], tops, bottoms, n);
-    }
-    
-private:
-    // Try to make all dominoes have value 'target' on top side
-    int tryValue(int target, vector<int>& tops, vector<int>& bottoms, int n) {
-        int topRotations = 0;   // rotations needed if we want target on top
-        int bottomRotations = 0;  // rotations needed if we want target on bottom
-        
-        for (int i = 0; i < n; i++) {
-            // If neither top nor bottom matches target, it's impossible
-            if (tops[i] != target && bottoms[i] != target) {
-                return -1;
+        for (int i = 0; i < tops.size(); i++) {
+            topFreq[tops[i]]++;
+            if (topFreq[tops[i]] >= topMaxCount) {
+                topMaxCount = topFreq[tops[i]];
+                topMaxElement = tops[i];
             }
-            
-            // Count rotations needed to get target on top
-            if (tops[i] != target) topRotations++;
-            
-            // Count rotations needed to get target on bottom
-            if (bottoms[i] != target) bottomRotations++;
         }
         
-        // Return the minimum number of rotations
-        return min(topRotations, bottomRotations);
+        // Count frequencies of values in bottoms array
+        map<int, int> bottomFreq;
+        int bottomMaxCount = 0;
+        int bottomMaxElement = 0;
+        
+        for (int i = 0; i < bottoms.size(); i++) {
+            bottomFreq[bottoms[i]]++;
+            if (bottomFreq[bottoms[i]] >= bottomMaxCount) {
+                bottomMaxCount = bottomFreq[bottoms[i]];
+                bottomMaxElement = bottoms[i];
+            }
+        }
+        
+        int rotationsNeeded = 0;
+        
+        // Choose the array with more frequent max element
+        if (topMaxCount > bottomMaxCount) {
+            // Try to make all tops match topMaxElement
+            for (int i = 0; i < tops.size(); i++) {
+                if (tops[i] != topMaxElement) {
+                    // Check if we can swap with bottom
+                    if (bottoms[i] == topMaxElement) {
+                        rotationsNeeded++;
+                    } else {
+                        // Can't make all dominoes show the same value
+                        return -1;
+                    }
+                }
+            }
+        } else {
+            // Try to make all bottoms match bottomMaxElement
+            for (int i = 0; i < bottoms.size(); i++) {
+                if (bottoms[i] != bottomMaxElement) {
+                    // Check if we can swap with top
+                    if (tops[i] == bottomMaxElement) {
+                        rotationsNeeded++;
+                    } else {
+                        // Can't make all dominoes show the same value
+                        return -1;
+                    }
+                }
+            }
+        }
+        
+        return rotationsNeeded;
     }
 };
