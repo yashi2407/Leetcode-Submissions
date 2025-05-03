@@ -1,56 +1,25 @@
 class Solution {
 public:
+    int check(int target, vector<int>& tops, vector<int>& bottoms) {
+        int rotTop = 0, rotBottom = 0;
+        for (int i = 0; i < tops.size(); ++i) {
+            if (tops[i] != target && bottoms[i] != target) {
+                return -1;
+            } else if (tops[i] != target) {
+                rotTop++;
+            } else if (bottoms[i] != target) {
+                rotBottom++;
+            }
+        }
+        return min(rotTop, rotBottom);
+    }
+
     int minDominoRotations(vector<int>& tops, vector<int>& bottoms) {
-        map<int,int> mp;
-         map<int,int> mp1;
-        // store the count of top elements
-        int currentTopMaxCount = INT_MIN;
-        int currentTopMaxElement = INT_MIN;
-        for(int i = 0;i<tops.size();i++){
-            mp[tops[i]]++;
-            if(mp[tops[i]]>=currentTopMaxCount){
-                currentTopMaxCount = mp[tops[i]];
-                currentTopMaxElement = tops[i]; 
-            }
-        }
-        int currentBottomMaxCount = INT_MIN;
-        int currentBottomMaxElement = INT_MIN;
-        for(int i = 0;i<bottoms.size();i++){
-            mp1[bottoms[i]]++;
-            if(mp1[bottoms[i]]>=currentBottomMaxCount){
-                currentBottomMaxCount = mp1[bottoms[i]];
-                currentBottomMaxElement = bottoms[i]; 
-            }
-        }
-        int ans = 0;
-        // if top has more maxelements
-        if(currentTopMaxCount > currentBottomMaxCount){
-            for(int i = 0;i<tops.size();i++){
-                if(tops[i] != currentTopMaxElement){
-                    // swap if bottom is equal to max element
-                    if(bottoms[i] == currentTopMaxElement){
-                        ans++;
-                    }
-                    else {
-                        return -1;
-                    }
-                }
-            }
-        }
-        else {
-            for(int i = 0;i<tops.size();i++){
-                if(bottoms[i] != currentBottomMaxElement){
-                    // swap if bottom is equal to max element
-                    if(tops[i] == currentBottomMaxElement){
-                        ans++;
-                    }
-                    else {
-                        return -1;
-                    }
-                }
-            }
-        }
-        
-        return ans;
+        int rotations = check(tops[0], tops, bottoms);
+        if (rotations != -1) return rotations;
+        // If tops[0] and bottoms[0] are the same, don’t check twice
+        if (tops[0] != bottoms[0])
+            return check(bottoms[0], tops, bottoms);
+        return -1;
     }
 };
