@@ -1,25 +1,34 @@
 class Solution {
 public:
-    int check(int target, vector<int>& tops, vector<int>& bottoms) {
-        int rotTop = 0, rotBottom = 0;
-        for (int i = 0; i < tops.size(); ++i) {
+    int minDominoRotations(vector<int>& tops, vector<int>& bottoms) {
+        int n = tops.size();
+        int rotationsNeeded = tryValue(tops[0], tops, bottoms, n);
+        
+        // If tops[0] doesn't work, try bottoms[0]
+        if (rotationsNeeded != -1) return rotationsNeeded;
+        return tryValue(bottoms[0], tops, bottoms, n);
+    }
+    
+private:
+    // Try to make all dominoes have value 'target' on top side
+    int tryValue(int target, vector<int>& tops, vector<int>& bottoms, int n) {
+        int topRotations = 0;   // rotations needed if we want target on top
+        int bottomRotations = 0;  // rotations needed if we want target on bottom
+        
+        for (int i = 0; i < n; i++) {
+            // If neither top nor bottom matches target, it's impossible
             if (tops[i] != target && bottoms[i] != target) {
                 return -1;
-            } else if (tops[i] != target) {
-                rotTop++;
-            } else if (bottoms[i] != target) {
-                rotBottom++;
             }
+            
+            // Count rotations needed to get target on top
+            if (tops[i] != target) topRotations++;
+            
+            // Count rotations needed to get target on bottom
+            if (bottoms[i] != target) bottomRotations++;
         }
-        return min(rotTop, rotBottom);
-    }
-
-    int minDominoRotations(vector<int>& tops, vector<int>& bottoms) {
-        int rotations = check(tops[0], tops, bottoms);
-        if (rotations != -1) return rotations;
-        // If tops[0] and bottoms[0] are the same, don’t check twice
-        if (tops[0] != bottoms[0])
-            return check(bottoms[0], tops, bottoms);
-        return -1;
+        
+        // Return the minimum number of rotations
+        return min(topRotations, bottomRotations);
     }
 };
