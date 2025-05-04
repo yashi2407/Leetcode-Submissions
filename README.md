@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
