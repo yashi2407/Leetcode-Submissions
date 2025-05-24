@@ -11,24 +11,29 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<ListNode*, vector<ListNode*>, function<bool(ListNode*, ListNode*)>> pq(
-    [](ListNode* a, ListNode* b) { return a->val > b->val; });
-
-        // push all the first modes in the min heap
+        auto cmp = [](ListNode *a, ListNode * b){
+            return a->val>b->val;
+        };
+        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
+        // putting the first elements in the heap
         for(int i = 0;i<lists.size();i++){
-            if (lists[i]) pq.push(lists[i]);
+            if (lists[i]) { //  only push non-null heads else cpm function will throw an error
+                pq.push(lists[i]);
+            }
         }
-        ListNode* dummy = new ListNode(0);
-        ListNode* temp = dummy;
-        while(pq.size()>0){
-          ListNode* currentNode = pq.top();
-          pq.pop();
-          temp->next = currentNode;
-          temp = temp->next;
-          if(currentNode ->next){
-            pq.push(currentNode->next);
-          }
+        // dummy node as head for the new list
+        ListNode * head = new ListNode(0);
+        ListNode * temp = head;
+        while(!pq.empty()){
+            ListNode* currentNode = pq.top();
+            pq.pop();
+            if(currentNode->next){
+                pq.push(currentNode->next);
+            }
+            temp->next = currentNode;
+            temp = temp->next;
         }
-        return dummy->next;
+        return head->next;
+
     }
 };
