@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
 ## String
 |  |
@@ -173,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
