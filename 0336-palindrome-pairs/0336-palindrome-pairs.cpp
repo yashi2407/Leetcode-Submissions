@@ -15,32 +15,34 @@ public:
             wordMap[words[i]] = i;
         }
         for(int i = 0;i<words.size();i++){
-            // split at every index of that particular word;
-            for(int j = 0;j<=words[i].size();j++){
-                string word1 = words[i].substr(0, j);
-                string word2 = words[i].substr(j); 
-                // check word1 palindrome
-                if(isPalindrome(word1)){
-                    // a | bcd --- >>> a is palindrome, check if reverse(bcd) exists or not in map
-                    string reversedWord2 = word2;
-                    reverse(reversedWord2.begin(), reversedWord2.end());
-                    if (wordMap.count(reversedWord2) && wordMap[reversedWord2] != i) {
-                        // dcb | abcd would be ans
-                        result.push_back({wordMap[reversedWord2], i});
+            string word = words[i];
+            for(int j = 0;j<=word.size();j++){
+                string left = word.substr(0,j);
+                string right = word.substr(j);
+                if(isPalindrome(left)){
+                    string temp = right;
+                    reverse(temp.begin(),temp.end());
+                    if(wordMap.find(temp)!=wordMap.end() && wordMap[temp]!=i){
+                        vector<int>index;
+                        index.push_back(wordMap[temp]);
+                        index.push_back(i); 
+                        result.push_back(index);
                     }
                 }
-                // j != words[i].size() to avoid duplicates
-                if(j != words[i].size() && isPalindrome(word2)){
-                    // a | bcd --- >>> a is palindrome, check if reverse(bcd) exists or not in map
-                    string reversedWord1 = word1;
-                    reverse(reversedWord1.begin(), reversedWord1.end());
-                    if (wordMap.count(reversedWord1) && wordMap[reversedWord1] != i) {
-                        // dcb | abcd would be ans
-                        result.push_back({i,wordMap[reversedWord1]});
+                if( j!= word.size() && isPalindrome(right)){
+                    string temp = left;
+                    reverse(temp.begin(),temp.end());
+                    if(wordMap.find(temp)!=wordMap.end()){
+                        vector<int>index;
+                        index.push_back(i);
+                        index.push_back(wordMap[temp]);
+                        result.push_back(index);
                     }
                 }
             }
         }
+        
+        
         return result;
     }
 };
