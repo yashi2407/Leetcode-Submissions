@@ -1,29 +1,34 @@
 class Solution {
 public:
-    unordered_map<string, bool> memo;
+    bool util(string s, string p, int i , int j, vector<vector<int>>&dp){
+       // base case
+       if(i == s.length() && j==p.length()){
+        return dp[i][j]= true;
+       }
+       // if pattern gets finished but string is not
+       if(j==p.length()){
+        return dp[i][j]=false;
+       }
+       if(dp[i][j]!=-1) {
+        return dp[i][j];
+       }
+       bool currentMatch  = (i < s.length()) && (s[i] == p[j] || p[j] == '.');
 
-    bool util(int i, int j, string& s, string& p) {
-        string key = to_string(i) + "," + to_string(j);
-        if (memo.count(key)) return memo[key];
+       if(j+1<p.length() && p[j+1] == '*'){
+        // Don't match the character of s[i]
+        bool zeroMatch = util(s,p,i,j+2,dp);
 
-        if (i == s.length() && j == p.length()) return memo[key] = true;
-        if (j == p.length()) return memo[key] = false;
-
-        bool match = (i < s.length()) && (s[i] == p[j] || p[j] == '.');
-
-        if (j + 1 < p.length() && p[j + 1] == '*') {
-            // Try zero occurrences or one (if match)
-            return memo[key] = util(i, j + 2, s, p) || (match && util(i + 1, j, s, p));
-        }
-
-        if (match) {
-            return memo[key] = util(i + 1, j + 1, s, p);
-        }
-
-        return memo[key] = false;
+        // if the current character match, see if there are more of the same element
+        bool oneOrMoreMatch = currentMatch && util(s,p,i+1,j,dp);
+        return dp[i][j]= zeroMatch || oneOrMoreMatch;
+       }
+       if(currentMatch) {
+            return dp[i][j]= util(s,p,i+1,j+1,dp);
+       }
+       return dp[i][j]= false;
     }
-
     bool isMatch(string s, string p) {
-        return util(0, 0, s, p);
+        vector<vector<int>>dp(s.length()+1,vector<int>(p.length()+1,-1));
+        return util(s,p,0,0,dp);
     }
 };
