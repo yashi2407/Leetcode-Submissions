@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Hash Table
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Greedy
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Two Pointers
 |  |
 | ------- |
