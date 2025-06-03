@@ -5,9 +5,6 @@ public:
         if(i == s.size() && j == p.size()){
             return true;
         }
-        if(j==p.size()){
-            return false;
-        }
         if(dp[i][j]!=-1){
             return dp[i][j];
         }
