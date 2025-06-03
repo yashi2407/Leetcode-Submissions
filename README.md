@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0091-decode-ways) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0768-partition-labels) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0091-decode-ways) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 ## Union Find
 |  |
 | ------- |
