@@ -11,7 +11,7 @@ public:
         if(dp[i][j]!=-1){
             return dp[i][j];
         }
-        if(i < s.size() && (s[i]==p[j] || p[j]=='?')){
+        if((s[i]==p[j] || p[j]=='?')){
             return dp[i][j]= util(s,p,i+1,j+1,dp);
         }
         if(p[j]=='*'){
