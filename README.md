@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Geometry
