@@ -11,29 +11,26 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        auto cmp = [](ListNode *a, ListNode * b){
-            return a->val>b->val;
+        auto cmp = [](ListNode* A, ListNode* B){
+            return A->val>B->val;
         };
         priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
-        // putting the first elements in the heap
-        for(int i = 0;i<lists.size();i++){
-            if (lists[i]) { //  only push non-null heads else cpm function will throw an error
+        for(int i =0;i<lists.size();i++){
+            if (lists[i] != nullptr){
                 pq.push(lists[i]);
             }
         }
-        // dummy node as head for the new list
-        ListNode * head = new ListNode(0);
-        ListNode * temp = head;
+        ListNode* head = new ListNode(0);
+        ListNode* temp = head;
         while(!pq.empty()){
-            ListNode* currentNode = pq.top();
+            ListNode* current = pq.top();
             pq.pop();
-            if(currentNode->next){
-                pq.push(currentNode->next);
+            if(current->next){
+                pq.push(current->next);
             }
-            temp->next = currentNode;
-            temp = temp->next;
+            temp->next = current;
+            temp=current;
         }
         return head->next;
-
     }
 };
