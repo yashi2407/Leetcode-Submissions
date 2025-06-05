@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0139-word-break) |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
+| [0402-remove-k-digits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -247,12 +249,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 ## Math
 |  |
 | ------- |
