@@ -1,29 +1,29 @@
 class Solution {
 public:
-    bool util(string s, map<string,int>&mp,int indexi,vector<int>&dp){
-        if(indexi>=s.size()){
+    bool util(string s,unordered_map<string,int>&mp,unordered_map<string,bool>&memo){
+        if(s.size()==0){
             return true;
         }
-        if(dp[indexi]!=-1){
-            return dp[indexi];
+        if(memo.find(s)!=memo.end()){
+            return memo[s];
         }
-        for(int i = indexi;i<s.size()+1;i++){
-            string s1 = s.substr(indexi, i - indexi);
-            if(mp.find(s1)!= mp.end()){
-                if(util(s,mp,i,dp)){
-                    return dp[indexi]= true;
-                } 
+        for(int i = 1;i<=s.size();i++){
+            string temp = s.substr(0,i);
+            cout<<temp<<" ";
+            if(mp.find(temp)!=mp.end()){
+                if(util(s.substr(i),mp,memo)){
+                    return memo[s]= true;
+                }
             }
         }
-        return dp[indexi]= false;
+        return memo[s] = false;
     }
     bool wordBreak(string s, vector<string>& wordDict) {
-        map<string,int>mp;
-        for(int i =0;i<wordDict.size();i++){
+        unordered_map<string,int>mp;
+        for(int i=0;i<wordDict.size();i++){
             mp[wordDict[i]]++;
         }
-
-        vector<int>dp(s.size()+1,-1);
-        return util(s,mp,0,dp);
+        unordered_map<string,bool> memo;
+        return util(s,mp,memo);
     }
 };
