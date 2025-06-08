@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 ## Counting
 |  |
 | ------- |
