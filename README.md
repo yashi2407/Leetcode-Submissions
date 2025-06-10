@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-report-spam-message](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3541-report-spam-message) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Backtracking
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Geometry
 |  |
 | ------- |
@@ -363,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+## Brainteaser
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
