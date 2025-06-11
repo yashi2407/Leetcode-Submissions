@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -398,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0931-maximum-frequency-stack) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
