@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2633-minimum-cost-to-split-an-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Matrix
 |  |
