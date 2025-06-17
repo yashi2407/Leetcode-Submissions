@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Geometry
 |  |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Ordered Set
 |  |
