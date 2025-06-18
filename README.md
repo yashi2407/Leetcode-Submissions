@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
+| [0394-decode-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0768-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0768-partition-labels) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
+| [0394-decode-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0394-decode-string) |
 ## Union Find
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0931-maximum-frequency-stack](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
