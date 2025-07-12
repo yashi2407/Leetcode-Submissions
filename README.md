@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+| [0312-burst-balloons](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0330-patching-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0330-patching-array) |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0312-burst-balloons](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0494-target-sum) |
