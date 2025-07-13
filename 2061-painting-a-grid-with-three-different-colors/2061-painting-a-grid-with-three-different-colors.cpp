@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<string>columnStates;
     int M = 1e9+7;
-    unordered_map<string, int> stateToIndex;
     vector<vector<int>> dp;
     void generateColumnsStates(int currentRow, char prevColour,int m, string current){
         if(currentRow==m){
@@ -46,10 +45,6 @@ public:
         generateColumnsStates(0,'#',m,"");
         int k = columnStates.size();
         dp.assign(n, vector<int>(k, -1));
-
-        for (int i = 0; i < columnStates.size(); i++) {
-            stateToIndex[columnStates[i]] = i;
-        }
         int result = 0;
         for(int i=0;i<columnStates.size();i++){
             result = (result + solve(1, n, i)) % M;
