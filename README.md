@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2176-parallel-courses-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2633-minimum-cost-to-split-an-array) |
 ## Hash Table
