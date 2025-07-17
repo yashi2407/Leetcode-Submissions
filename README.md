@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3881-minimize-maximum-component-cost](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3881-minimize-maximum-component-cost) |
 ## Greedy
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3881-minimize-maximum-component-cost](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3881-minimize-maximum-component-cost) |
 ## Two Pointers
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3881-minimize-maximum-component-cost](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3881-minimize-maximum-component-cost) |
 ## Stack
 |  |
 | ------- |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3881-minimize-maximum-component-cost](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3881-minimize-maximum-component-cost) |
 ## Topological Sort
 |  |
 | ------- |
