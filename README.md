@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
+| [0916-decoded-string-at-index](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
+| [0916-decoded-string-at-index](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0916-decoded-string-at-index) |
 | [0931-maximum-frequency-stack](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
