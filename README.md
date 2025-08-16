@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0090-subsets-ii) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 ## Simulation
