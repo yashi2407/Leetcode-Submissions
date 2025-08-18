@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0621-task-scheduler) |
+| [0679-24-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0679-24-game) |
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0679-24-game) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Dynamic Programming
 |  |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0679-24-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0679-24-game) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1448-maximum-69-number) |
