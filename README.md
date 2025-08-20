@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0945-snakes-and-ladders) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1559-cherry-pickup-ii) |
 ## Tree
