@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
