@@ -1,6 +1,5 @@
 class Solution {
 public:
-    unordered_set<string> result;
     bool isValid(const string& s) {
         int count = 0;
         for (char c : s) {
@@ -12,18 +11,17 @@ public:
         }
         return count == 0;
     }
-    void dfs(string s, int index, int leftRemove, int rightRemove, unordered_set<string>& visited) {
+    void util(unordered_set<string> &visited, vector<string> &ans, string s, int leftRemove, int rightRemove, int index){
         if (leftRemove == 0 && rightRemove == 0) {
             if (isValid(s)) {
-                result.insert(s);
+                ans.push_back(s);
             }
             return;
         }
-        for (int i = index; i < s.size(); ++i) {
-            // Skip duplicate removals
-            if (i > index && s[i] == s[i - 1]) continue;
 
-            // Only try to remove parentheses
+        // try out all possible conditions!
+        for(int i=index;i<s.size();i++){
+            if (i > index && s[i] == s[i - 1]) continue;
             if (s[i] == '(' || s[i] == ')') {
                 string temp = s;
                 temp.erase(i, 1);
@@ -31,31 +29,38 @@ public:
                 if (s[i] == '(' && leftRemove > 0) {
                     if (visited.count(temp) == 0) {
                         visited.insert(temp);
-                        dfs(temp, i, leftRemove - 1, rightRemove, visited);
+                        util(visited, ans, temp, leftRemove-1, rightRemove, i);
                     }
                 } else if (s[i] == ')' && rightRemove > 0) {
                     if (visited.count(temp) == 0) {
                         visited.insert(temp);
-                        dfs(temp, i, leftRemove, rightRemove - 1, visited);
+                        util(visited, ans, temp, leftRemove, rightRemove - 1, i);
                     }
                 }
             }
         }
     }
     vector<string> removeInvalidParentheses(string s) {
+        // first figure out how many open and close we need to remove
         int leftRemove = 0, rightRemove = 0;
-        for (char c : s) {
-            if (c == '(') leftRemove++;
-            else if (c == ')') {
-                if (leftRemove == 0) rightRemove++;
-                else leftRemove--;
+        for(int i=0;i<s.size();i++){
+            if(s[i]== '('){
+                leftRemove++;
             }
-        }
-        unordered_set<string> visited;// kinda like dfs
-        visited.insert(s);
-        dfs(s, 0, leftRemove, rightRemove, visited);
+            else if(s[i] == ')'){
+                if(leftRemove>0){
+                    leftRemove--;
+                }
+                else{
+                    rightRemove++;
+                }
+            }
 
-        if (result.empty()) return {""};
-        return vector<string>(result.begin(), result.end());
+        }
+        unordered_set<string> visited;
+        vector<string> ans;
+        util(visited,ans,s,leftRemove,rightRemove, 0);
+        return ans;
+        
     }
 };
