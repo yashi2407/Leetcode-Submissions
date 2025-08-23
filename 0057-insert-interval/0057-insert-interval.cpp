@@ -2,17 +2,17 @@ class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         vector<vector<int>> result;
-        int i = 0, n = intervals.size();
-        // insert all the intervals that are coming before the new interval
-        // start time of new interval is less than end time of current interva;
+        int i=0;
+        int n= intervals.size();
+        // push non overlapping intervals!
+        // if startTime of newInterval is greater that end time of i, we simply push the current interval in result!
         while(i<n && newInterval[0]>intervals[i][1]){
             result.push_back(intervals[i]);
             i++;
         }
 
-        // overlapping
-        // start time of new interval is less than equal to end time of current!
         vector<int> newInterval1 = newInterval;
+        // found the overlapping one!! we try to get the start time and end time of new Intervals.
         while (i < n && intervals[i][0] <= newInterval[1]) {
             newInterval1[0] = min(intervals[i][0],newInterval1[0]);
             newInterval1[1] = max(intervals[i][1],newInterval1[1]);
@@ -25,6 +25,5 @@ public:
             i++;
         }
         return result;
-
     }
 };
