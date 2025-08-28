@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1308-smallest-string-with-swaps) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Sorting
