@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0945-snakes-and-ladders) |
+| [0983-validate-stack-sequences](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-decoded-string-at-index](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0916-decoded-string-at-index) |
 | [0931-maximum-frequency-stack](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
+| [0983-validate-stack-sequences](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [3939-process-string-with-special-operations-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3939-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
