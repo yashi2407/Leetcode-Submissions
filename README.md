@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2176-parallel-courses-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1508-longest-happy-prefix) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
