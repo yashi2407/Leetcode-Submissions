@@ -1,21 +1,19 @@
 class Solution {
 public:
     int numSub(string s) {
-        int MOD = 1e9+7;
+        const int MOD = 1e9 + 7;
         long long currentOnes = 0;
         long long ans = 0;
-        for(int i=0;i<s.size();i++){
-            if(s[i]=='1'){
+
+        for (char c : s) {
+            if (c == '1') {
                 currentOnes++;
-            }
-            else {
-                // cout<<"heree"<<currentOnes;
-                ans += ((currentOnes *(currentOnes+1))/2)%MOD;
+                ans = (ans + currentOnes) % MOD;  // each 1 extends all-1's substrings
+            } else {
                 currentOnes = 0;
             }
         }
-        // if trailing 1's
-        ans += ((currentOnes *(currentOnes+1))/2)%MOD;
-        return (int)ans%MOD;
+
+        return (int)ans;
     }
 };
