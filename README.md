@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1508-longest-happy-prefix) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
