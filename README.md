@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Sorting
 |  |
 | ------- |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2176-parallel-courses-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3881-minimize-maximum-component-cost](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3881-minimize-maximum-component-cost) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Interactive
 |  |
 | ------- |
