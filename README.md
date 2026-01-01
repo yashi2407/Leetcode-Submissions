@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0075-sort-colors) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0679-24-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0679-24-game) |
