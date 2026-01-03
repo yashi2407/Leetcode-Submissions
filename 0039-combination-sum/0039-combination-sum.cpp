@@ -1,25 +1,26 @@
 class Solution {
 public:
-    void util(vector<int>& candidates, int target, int index, vector<vector<int>> &ans, vector<int>&currentAns){
-        if(index ==candidates.size()){
+    void solve(vector<int>& candidates, int target ,vector<vector<int>>&ans,vector<int>&currentCombinations, int currentIndex){
+        if(currentIndex>=candidates.size()){
             if(target == 0){
-                ans.push_back(currentAns);
+                ans.push_back(currentCombinations);
             }
             return;
         }
-        // can pick
-        if(candidates[index]<=target){
-            currentAns.push_back(candidates[index]);
-            util(candidates,target-candidates[index],index,ans,currentAns);
-            currentAns.pop_back();
+
+        // if possible to pick!
+        if(candidates[currentIndex]<=target){
+            //choose the element
+            currentCombinations.push_back(candidates[currentIndex]);
+            solve(candidates,target-candidates[currentIndex],ans,currentCombinations, currentIndex);
+            currentCombinations.pop_back();
         }
-        // won't pick
-        util(candidates,target,index+1,ans,currentAns);
+        solve(candidates,target,ans,currentCombinations, currentIndex+1);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
-        vector<int>currentAns;
-        util(candidates,target,0,ans,currentAns);
+        vector<int> currentCombinations;
+        solve(candidates,target,ans,currentCombinations, 0);
         return ans;
     }
 };
