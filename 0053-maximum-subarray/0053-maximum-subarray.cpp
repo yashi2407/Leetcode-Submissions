@@ -11,6 +11,6 @@ public:
                 currentSum = 0;
             }
         }
-        return maxSum == INT_MIN ? -1 : maxSum;
+        return maxSum;
     }
 };
