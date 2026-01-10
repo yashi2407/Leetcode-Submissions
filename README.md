@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0494-target-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
