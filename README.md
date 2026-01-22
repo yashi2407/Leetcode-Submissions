@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-report-spam-message](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3541-report-spam-message) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-report-spam-message](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3541-report-spam-message) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0931-maximum-frequency-stack](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0931-maximum-frequency-stack) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -794,9 +799,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3939-process-string-with-special-operations-ii) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
