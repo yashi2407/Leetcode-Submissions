@@ -11,24 +11,19 @@
  */
 class Solution {
 public:
-    TreeNode* buildtree(vector<int>& preorder, vector<int>& inorder, int preStart, int preEnd, int inStart, int inEnd, map<int,int>&mp){
-        if(preStart>preEnd || inStart > inEnd){
+    TreeNode* buildTree(vector<int>& preorder, int &index, int upperBound){
+        if(index>=preorder.size() || preorder[index]>upperBound){
             return NULL;
         }
-        TreeNode* root = new TreeNode(preorder[preStart]);
-        int rootIndex = mp[preorder[preStart]];
-        int numsLeft = rootIndex - inStart;
-        root->left = buildtree(preorder, inorder, preStart+1, preStart+numsLeft, inStart, rootIndex-1, mp);
-        root->right = buildtree(preorder, inorder,preStart+numsLeft+1, preEnd, rootIndex+1, inEnd, mp);
+        TreeNode* root = new TreeNode(preorder[index]);
+        index++;
+        root->left = buildTree(preorder,index,root->val);
+        root->right = buildTree(preorder,index,upperBound);
         return root;
     }
+
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int> inorder = preorder;
-        sort(inorder.begin(), inorder.end());
-        map<int,int>mp;
-        for(int i=0;i<inorder.size();i++){
-            mp[inorder[i]] = i;
-        }
-        return buildtree(preorder,inorder,0, preorder.size()-1, 0, inorder.size()-1,mp);
+        int index = 0;
+        return buildTree(preorder, index, INT_MAX);
     }
 };
