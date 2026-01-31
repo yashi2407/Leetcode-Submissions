@@ -8,13 +8,13 @@ public:
             power = -power;
         }
         while(power>0){
-            if(power%2==1){
-                ans = ans * x;
-                power = power-1;
+            if(power%2==0){
+                x = x*x;
+                power=power/2;
             }
             else{
-                power = power/2;
-                x= x*x;
+                ans = ans * x;
+                power-=1;
             }
         }
         return ans;
