@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2633-minimum-cost-to-split-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2633-minimum-cost-to-split-an-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-report-spam-message](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3541-report-spam-message) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
