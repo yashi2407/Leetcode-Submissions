@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3637-trionic-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3640-trionic-array-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3640-trionic-array-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
