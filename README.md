@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -850,4 +852,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
