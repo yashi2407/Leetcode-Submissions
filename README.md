@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-report-spam-message](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3541-report-spam-message) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3640-trionic-array-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3634-minimum-removals-to-balance-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3881-minimize-maximum-component-cost](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3881-minimize-maximum-component-cost) |
 ## Two Pointers
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Linked List
