@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1583-paint-house-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1583-paint-house-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1508-longest-happy-prefix) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
