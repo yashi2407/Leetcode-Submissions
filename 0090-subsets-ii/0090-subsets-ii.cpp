@@ -2,8 +2,9 @@ class Solution {
 public:
     void util(vector<int>& nums,vector<vector<int>> &ans, vector<int>&current,int index){
         ans.push_back(current);
-        for(int i = index;i<nums.size();i++){
-            if(i!=index && nums[i] == nums[i - 1]){
+        // try all possible stuff
+        for(int i=index;i<nums.size();i++){
+            if(i!=index && nums[i]==nums[i-1]){
                 continue;
             }
             current.push_back(nums[i]);
