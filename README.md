@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
