@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3713-longest-balanced-substring-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3541-report-spam-message](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3541-report-spam-message) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2633-minimum-cost-to-split-an-array) |
+| [3713-longest-balanced-substring-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Design
