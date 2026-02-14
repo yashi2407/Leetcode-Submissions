@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
