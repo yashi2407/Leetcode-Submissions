@@ -1,28 +1,24 @@
 class Solution {
 public:
-    void util(vector<vector<int>> &ans, int k, int currentNumber, int n, vector<int>&currentCombination){
-        // Base Condition
-        if(currentNumber > n){
-            if(k == 0){
-                ans.push_back(currentCombination);
-            }
+    vector<vector<int>> combine(int n, int k) {
+        std::vector<std::vector<int>> res;
+        std::vector<int> comb;
+
+        backtrack(1, comb, res, n, k);
+        return res;        
+    }
+
+private:
+    void backtrack(int start, std::vector<int>& comb, std::vector<std::vector<int>>& res, int n, int k) {
+        if (comb.size() == k) {
+            res.push_back(comb);
             return;
         }
-        // pick the current number if possible
-        if(k>0){
-            currentCombination.push_back(currentNumber);
-            util(ans,k-1,currentNumber+1,n,currentCombination);
-            currentCombination.pop_back();
-        }
-        // don't pick the current Number
-        util(ans,k,currentNumber+1,n,currentCombination);
 
-    }
-    vector<vector<int>> combine(int n, int k) {
-        vector<vector<int>> ans;
-        int currentNumber = 1;
-        vector<int> currentCombination;
-        util(ans,k,currentNumber,n,currentCombination);
-        return ans;
-    }
+        for (int num = start; num <= n; num++) {
+            comb.push_back(num);
+            backtrack(num + 1, comb, res, n, k);
+            comb.pop_back();
+        }
+    }    
 };
