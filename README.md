@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0079-word-search) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0679-24-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0679-24-game) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0136-single-number) |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
