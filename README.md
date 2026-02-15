@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0455-assign-cookies) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0455-assign-cookies) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1382-balance-a-binary-search-tree) |
@@ -683,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Recursion
 |  |
