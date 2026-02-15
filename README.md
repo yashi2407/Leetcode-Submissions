@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
