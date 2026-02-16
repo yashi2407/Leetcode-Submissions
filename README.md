@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1382-balance-a-binary-search-tree) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0784-letter-case-permutation) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
