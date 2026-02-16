@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0312-burst-balloons) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0455-assign-cookies) |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0679-24-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0679-24-game) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -818,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0784-letter-case-permutation) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
