@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0401-binary-watch](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0679-24-game) |
 | [0784-letter-case-permutation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0784-letter-case-permutation) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0784-letter-case-permutation) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
