@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool hasAlternatingBits(int n) {
-        // get the MSB currently
+        // get the last bit
         int lastBit = n & 1;
         n = n >> 1;
         while(n>0){
