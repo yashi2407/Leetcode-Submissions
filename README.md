@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1308-smallest-string-with-swaps](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1200-minimum-absolute-difference) |
 | [1308-smallest-string-with-swaps](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1503-reducing-dishes) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-binary-gap) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
