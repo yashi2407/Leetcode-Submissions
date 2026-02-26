@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1133-last-substring-in-lexicographical-order](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1308-smallest-string-with-swaps](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1508-longest-happy-prefix) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
