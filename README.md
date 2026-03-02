@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1503-reducing-dishes) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1583-paint-house-iii) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1975-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-cherry-pickup-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1975-maximum-matrix-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1975-maximum-matrix-sum) |
