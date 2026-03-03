@@ -6,9 +6,6 @@ public:
         int j=0;
         int count = 0;
         int ans = 0;
-        if(fruits.size()==1){
-            return 1;
-        }
         while(j<fruits.size()){
             mp[fruits[j]]++;
             count++;
