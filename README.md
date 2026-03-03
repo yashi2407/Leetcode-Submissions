@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0883-car-fleet) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0904-fruit-into-baskets](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0791-custom-sort-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0791-custom-sort-string) |
+| [0904-fruit-into-baskets](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0931-maximum-frequency-stack](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0931-maximum-frequency-stack) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
