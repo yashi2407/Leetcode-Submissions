@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1508-longest-happy-prefix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0394-decode-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union Find
 |  |
 | ------- |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
