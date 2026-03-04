@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1559-cherry-pickup-ii) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1583-paint-house-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1583-paint-house-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-cherry-pickup-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1559-cherry-pickup-ii) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1975-maximum-matrix-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
