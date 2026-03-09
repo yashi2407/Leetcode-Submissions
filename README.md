@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0498-diagonal-traverse](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
