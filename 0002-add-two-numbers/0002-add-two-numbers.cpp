@@ -11,36 +11,50 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* temp1 = l1;
-        ListNode* temp2 = l2;
+        ListNode* p = l1;
+        ListNode* q = l2;
+        ListNode* prev = NULL;
         int carry = 0;
-        ListNode* prev = nullptr;
-        while(temp1 != NULL && temp2!= NULL){
-            int sum = temp1->val + temp2->val + carry;
-            temp1->val = sum%10;
-            carry = sum/10;
-            prev = temp1;
-            temp1=temp1->next;
-            temp2=temp2->next;
-        }
-        // if l1 is smaller, attach prev to temp2 and continue
-        if (!temp1 && temp2) {
-            prev->next = temp2;
-            temp1 = temp2;   // continue processing carry on this attached tail
-        }
-        while (temp1) {
-            int sum = temp1->val + carry;
-            temp1->val = sum % 10;
-            carry = sum / 10;
 
-            prev = temp1;
-            temp1 = temp1->next;
+        while(p!= NULL && q!= NULL){
+            int sum = p->val + q->val + carry;
+            if(sum>9){
+                sum = sum%10;
+                carry = 1;
+            }
+            else {
+                carry = 0;
+            }
+            // storing in l1 linkedList
+            p->val = sum;
+            prev = p;
+            p = p->next;
+            q = q->next;
+            
         }
-        // if carry still exists, append new node
-        if (carry) {
-            prev->next = new ListNode(carry);
-        }
+        // q is longer!
+        if(q!= NULL){
+            prev->next = q;
+            p = q;
 
+        }
+        while(p!= NULL){
+            int sum = p->val + carry;
+            if(sum>9){
+                sum = sum%10;
+                carry = 1;
+            }
+            else {
+                carry = 0;
+            }
+            p->val = sum;
+            prev = p;
+            p = p->next;
+        }
+        // add in new node with val 1
+        if(carry == 1){
+            prev->next = new ListNode(1);
+        }
         return l1;
     }
 };
