@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0455-assign-cookies) |
