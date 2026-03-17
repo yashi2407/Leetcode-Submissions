@@ -1,7 +1,8 @@
 class Solution {
 public:
     int minDominoRotations(vector<int>& tops, vector<int>& bottoms) {
-        unordered_map<int, int> topFreq;
+        // Count frequencies of values in tops array
+        map<int, int> topFreq;
         int topMaxCount = 0;
         int topMaxElement = 0;
         
@@ -14,7 +15,7 @@ public:
         }
         
         // Count frequencies of values in bottoms array
-        unordered_map<int, int> bottomFreq;
+        map<int, int> bottomFreq;
         int bottomMaxCount = 0;
         int bottomMaxElement = 0;
         
@@ -25,34 +26,38 @@ public:
                 bottomMaxElement = bottoms[i];
             }
         }
-        int ans = 0;
-        // top has more same element, we need to swap from bottom
-        if(topMaxCount >= bottomMaxCount){
-            for(int i=0;i<tops.size();i++){
-                if(tops[i] != topMaxElement){
-                    if(bottoms[i] != topMaxElement){
+        
+        int rotationsNeeded = 0;
+        
+        // Choose the array with more frequent max element
+        if (topMaxCount > bottomMaxCount) {
+            // Try to make all tops match topMaxElement
+            for (int i = 0; i < tops.size(); i++) {
+                if (tops[i] != topMaxElement) {
+                    // Check if we can swap with bottom
+                    if (bottoms[i] == topMaxElement) {
+                        rotationsNeeded++;
+                    } else {
+                        // Can't make all dominoes show the same value
                         return -1;
                     }
-                    else{
-                        swap(tops[i], bottoms[i]);
-                        ans++;
+                }
+            }
+        } else {
+            // Try to make all bottoms match bottomMaxElement
+            for (int i = 0; i < bottoms.size(); i++) {
+                if (bottoms[i] != bottomMaxElement) {
+                    // Check if we can swap with top
+                    if (tops[i] == bottomMaxElement) {
+                        rotationsNeeded++;
+                    } else {
+                        // Can't make all dominoes show the same value
+                        return -1;
                     }
                 }
             }
         }
-        else{
-            for(int i=0;i<bottoms.size();i++){
-                if(bottoms[i] != bottomMaxElement){
-                    if(tops[i] != bottomMaxElement){
-                        return -1;
-                    }
-                    else {
-                        swap(tops[i], bottoms[i]);
-                        ans++;
-                    }
-                }
-            }
-        }
-        return ans;
+        
+        return rotationsNeeded;
     }
 };
