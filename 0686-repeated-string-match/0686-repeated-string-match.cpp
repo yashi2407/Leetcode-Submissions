@@ -18,7 +18,7 @@ int repeatedStringMatch(string a, string b) {
         }
         int mn = b.size()/a.size();
         // int mn = (b.size() + a.size() - 1) / a.size();
-        for (int i = mn; i <= mn + 5; i++) {
+        for (int i = mn; i <= mn + 4; i++) {
             string repeated = repeatString(a, i);
             if (isSubstring(repeated, b)) {
                 return i;
