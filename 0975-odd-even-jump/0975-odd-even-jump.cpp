@@ -50,20 +50,24 @@ public:
             }
             st.push(idx[i]);
         }
-        // even Jump
-        for(int i=0;i<arr.size();i++){
-            int nextIndex = -1; 
-            int nextVal = INT_MIN;
-            for(int j=i+1;j<arr.size();j++){
-                if(arr[i]>=arr[j]){
-                    if(arr[j]>nextVal){
-                        nextIndex = j;
-                        nextVal = arr[j];
-                    }
-                }
+
+        vector<int> idx2(arr.size());
+        iota(idx2.begin(), idx2.end(), 0);
+        sort(idx2.begin(), idx2.end(),[&arr](int a, int b){
+            if (arr[a] == arr[b]) return a<b;
+            else return arr[a]>arr[b];
+        });
+        stack<int>st1;
+        for(int i = idx2.size()-1;i>=0;i--){
+            while(!st1.empty() && idx2[i]>st1.top()){
+                st1.pop();
             }
-            evenJump[i] = nextIndex;
+            if(!st1.empty()){
+                evenJump[idx2[i]] = st1.top();
+            }
+            st1.push(idx2[i]);
         }
+        
 
         // TRY OUT EVERY START INDEX!
         int ans = 0;
