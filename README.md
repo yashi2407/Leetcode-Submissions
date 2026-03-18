@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0482-license-key-formatting) |
 | [0567-permutation-in-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0583-delete-operation-for-two-strings) |
+| [0686-repeated-string-match](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
 | [0761-special-binary-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0761-special-binary-string) |
@@ -1030,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
