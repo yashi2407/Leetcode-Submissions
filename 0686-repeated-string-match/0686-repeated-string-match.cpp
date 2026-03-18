@@ -5,11 +5,9 @@ bool isSubstring(string a, string b) {
 }
 string repeatString(string s, int times) {
     string result = "";
-
     for (int i = 0; i < times; i++) {
         result += s;
     }
-
     return result;
 }
 int repeatedStringMatch(string a, string b) {
@@ -17,8 +15,7 @@ int repeatedStringMatch(string a, string b) {
             return 1;
         }
         int mn = b.size()/a.size();
-        // int mn = (b.size() + a.size() - 1) / a.size();
-        for (int i = mn; i <= mn + 3; i++) {
+        for (int i = mn; i <= mn + 2; i++) {
             string repeated = repeatString(a, i);
             if (isSubstring(repeated, b)) {
                 return i;
