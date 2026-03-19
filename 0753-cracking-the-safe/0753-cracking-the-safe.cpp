@@ -4,7 +4,7 @@ public:
         if (n >= s.size()) return s;
         return s.substr(s.size() - n);
     }
-    bool start(int n, int k, string &currentPassword, set<string>&allPasswords, int total){
+    bool start(int n, int k, string &currentPassword, unordered_set<string>&allPasswords, int total){
         if(allPasswords.size() == total){
             return true;
         }
@@ -24,7 +24,7 @@ public:
         return false;
     }
     string crackSafe(int n, int k) {
-        set<string>allPasswords;
+        unordered_set<string>allPasswords;
         string currentPassword(n - 1, '0');
         int total = 1;
         for (int i = 0; i < n; i++) total *= k;
