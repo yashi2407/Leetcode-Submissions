@@ -23,6 +23,7 @@ public:
         }
         return false;
     }
+    
     string crackSafe(int n, int k) {
         unordered_set<string>allPasswords;
         string currentPassword(n - 1, '0');
