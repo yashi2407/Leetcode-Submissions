@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0330-patching-array) |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0472-concatenated-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
 | [0392-is-subsequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1043,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Interactive
@@ -1081,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1089,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0753-cracking-the-safe](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-cracking-the-safe) |
 ## Game Theory
 |  |
