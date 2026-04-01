@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0679-24-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0679-24-game) |
@@ -902,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Quickselect
