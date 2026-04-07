@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
 | [0843-guess-the-word](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0843-guess-the-word) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0883-car-fleet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0883-car-fleet) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0768-partition-labels) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0791-custom-sort-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0883-car-fleet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0883-car-fleet) |
 | [0975-odd-even-jump](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0975-odd-even-jump) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0767-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1054-distant-barcodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1054-distant-barcodes) |
