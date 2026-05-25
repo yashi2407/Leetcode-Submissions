@@ -1,15 +1,18 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
-        for(int i=digits.size()-1;i>=0;i--)
-        {
-            digits[i] +=1;
-            if(digits[i]!=10){
-                return digits;
+        int carry = 0;
+        for(int i = digits.size()-1;i>=0;i--){
+            int sum = digits[i] + carry;
+            if(i == digits.size()-1){
+                sum+=1;
             }
-            digits[i]=0;
+            digits[i] = sum % 10;
+            carry = sum / 10;
         }
-        digits.insert(digits.begin(),1);
+        if(carry == 1){
+            digits.insert(digits.begin(), 1); 
+        }
         return digits;
     }
 };
