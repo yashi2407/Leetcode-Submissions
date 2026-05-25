@@ -1,27 +1,37 @@
 class Solution {
 public:
-    void makeZero(int row, int col, vector<vector<int>>& matrix) {
-        for(int i=0;i<matrix[0].size();i++){
-            matrix[row][i]=0;
-        }
-         for(int i=0;i<matrix.size();i++){
-            matrix[i][col]=0;
-        }
-        
-    }
     void setZeroes(vector<vector<int>>& matrix) {
-        vector<pair<int,int>> zeroLoc;
+        vector<pair<int,int>>locations;
+        //O(mn)
         for(int i=0;i<matrix.size();i++){
             for(int j=0;j<matrix[0].size();j++){
-                if(matrix[i][j]==0){
-                    zeroLoc.push_back({i,j});
+                if(matrix[i][j] == 0){
+                    locations.push_back({i,j});
                 }
             }
         }
-        for(int i=0;i<zeroLoc.size();i++){
-            int row = zeroLoc[i].first;
-            int col = zeroLoc[i].second;
-            makeZero(row,col, matrix);
+        unordered_set<int>rowsChanged;
+        unordered_set<int>colChanged;
+
+        // iterate over the loctions and set them
+        for(int i=0;i<locations.size();i++){
+            int row = locations[i].first;
+            int col = locations[i].second;
+
+            if(rowsChanged.find(row) == rowsChanged.end()){
+                // change row zero
+                for(int j = 0;j<matrix[0].size();j++){
+                    matrix[row][j] = 0;
+                }
+                rowsChanged.insert(row);
+            }
+            if(colChanged.find(col) == colChanged.end()){
+                // change col!!
+                for(int j=0;j<matrix.size();j++){
+                    matrix[j][col] = 0;
+                }
+                colChanged.insert(col);
+            }
         }
     }
 };
