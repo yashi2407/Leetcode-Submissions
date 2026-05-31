@@ -11,51 +11,31 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* node1 = list1;
-        ListNode* node2 = list2;
-        ListNode* temp = NULL;
-        ListNode* newHead = NULL;
-        if(list1 == NULL){
-            return list2;
-        }
-        if(list2 == NULL){
-            return list1;
-        }
-        // list two's element will become new head
-        if(list1->val > list2->val){
-            newHead = list2;
-            node2 = node2->next;
-            temp = list2;
-        }
-        else{
-            newHead = list1;
-            node1 = node1->next;
-            temp = list1;
-        }
-
-        while(node1!=NULL && node2 != NULL){
-            // node 2 will come now
-            if(node1->val >= node2->val){
-                temp->next = node2;
-                temp = temp->next;
-                node2= node2->next;
+        ListNode* newHead = new ListNode(0);
+        ListNode *temp = newHead;
+        while(list1 && list2){
+            // if list1 is smaller and equal!
+            if(list1->val <= list2->val){
+                temp->next = list1;
+                temp=temp->next;
+                list1=list1->next;
             }
-            else{
-                temp->next = node1;
+            else {
+                temp->next = list2;
                 temp = temp->next;
-                node1= node1->next;
+                list2=list2->next;
             }
         }
-        while(node1 != NULL){
-            temp->next = node1;
-            temp = temp->next;
-            node1= node1->next;
+        while(list1){
+            temp->next = list1;
+            temp=temp->next;
+            list1=list1->next;
         }
-        while(node2 != NULL){
-            temp->next = node2;
+        while(list2){
+            temp->next = list2;
             temp = temp->next;
-            node2= node2->next;
+            list2=list2->next;
         }
-        return newHead;
+        return newHead->next;
     }
 };
