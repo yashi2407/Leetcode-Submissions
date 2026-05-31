@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0806-domino-and-tromino-tiling) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0482-license-key-formatting) |
 | [0567-permutation-in-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0883-car-fleet) |
 | [0916-decoded-string-at-index](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0916-decoded-string-at-index) |
