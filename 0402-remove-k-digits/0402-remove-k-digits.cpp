@@ -1,23 +1,23 @@
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-        string stack;
-        for (char digit : num) {
-            while (!stack.empty() && k > 0 && stack.back() > digit) {
-                stack.pop_back();
+        string st;
+        for(int i=0;i<num.size();i++){
+            while(!st.empty() && (st.back()>num[i] && k>0)){
+                st.pop_back();
                 k--;
             }
-            stack.push_back(digit);
+            st+=num[i];
         }
         while(k>0){
-            stack.pop_back();
+            st.pop_back();
             k--;
         }
-        int i = 0;
-        while (i < stack.size() && stack[i] == '0') {
+        int i=0;
+        while (i < st.size() && st[i] == '0') {
             i++;
         }
-        string result = stack.substr(i);
+        string result = st.substr(i);
         return result.empty() ? "0" : result;
     }
 };
