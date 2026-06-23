@@ -1,41 +1,38 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
-
-        vector<int> ans;
-
-        int top = 0, bottom = m - 1;
-        int left = 0, right = n - 1;
-
-        while (top <= bottom && left <= right) {
-
-            // 1) Go Right
-            for (int j = left; j <= right; j++)
-                ans.push_back(matrix[top][j]);
-            top++;
-
-            // 2) Go Down
-            for (int i = top; i <= bottom; i++)
-                ans.push_back(matrix[i][right]);
-            right--;
-
-            // 3) Go Left
-            if (top <= bottom) {
-                for (int j = right; j >= left; j--)
-                    ans.push_back(matrix[bottom][j]);
-                bottom--;
+        int leftColumn = 0;
+        int rightColumn = matrix[0].size()-1;
+        int topRow = 0;
+        int bottomRow = matrix.size()-1;
+        vector<int>ans;
+        while(topRow<=bottomRow && leftColumn<=rightColumn){
+            // print top row from left column to right
+            for(int i=leftColumn;i<=rightColumn;i++){
+                ans.push_back(matrix[topRow][i]);
             }
-
-            // 4) Go Up
-            if (left <= right) {
-                for (int i = bottom; i >= top; i--)
-                    ans.push_back(matrix[i][left]);
-                left++;
+            topRow++;
+            // print rightColumn from top row to bottom row
+            for(int i=topRow;i<=bottomRow;i++){
+                ans.push_back(matrix[i][rightColumn]);
+            }
+            rightColumn--;
+            // print bottomRow from rightColumn to leftColumn
+            if (topRow <= bottomRow) {
+                for(int i=rightColumn;i>=leftColumn;i--){
+                    ans.push_back(matrix[bottomRow][i]);
+                }
+                bottomRow--;
+            }
+            // print leftColumn from bottomRow to topRow
+            // first check if column exixts?
+            if(leftColumn<=rightColumn){
+                for(int i = bottomRow;i>=topRow;i--){
+                    ans.push_back(matrix[i][leftColumn]);
+                }
+                leftColumn++;
             }
         }
-
         return ans;
     }
 };
