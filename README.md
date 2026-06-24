@@ -919,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [0679-24-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
 | [0843-guess-the-word](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0843-guess-the-word) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Quickselect
