@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Quickselect
 |  |
 | ------- |
