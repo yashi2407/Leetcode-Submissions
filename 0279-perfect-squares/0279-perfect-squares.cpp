@@ -11,7 +11,7 @@ public:
             return dp[n];
         }
         int i = 1;
-        int ans = 123456;
+        int ans = 1e9;
         while (i * i <= n) {
             int choice = i * i;
             ans = min(ans, 1 + util(n - choice, dp));
