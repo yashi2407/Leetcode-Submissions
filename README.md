@@ -794,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0445-add-two-numbers-ii) |
 | [0679-24-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
