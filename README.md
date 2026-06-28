@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0767-reorganize-string) |
