@@ -1,35 +1,35 @@
 class Solution {
 public:
-    string getLastNDigits(string s, int n) {
-        if (n >= s.size()) return s;
-        return s.substr(s.size() - n);
+    unordered_set<string>allPasswords;
+    int totalPasswords;
+    string getLastNDigits(string currentPassword, int n){
+        return currentPassword.substr(currentPassword.size()-n);
     }
-    bool start(int n, int k, string &currentPassword, unordered_set<string>&allPasswords, int total){
-        if(allPasswords.size() == total){
+    bool util(string &currentPassword, int n, int k) {
+        if(allPasswords.size() == totalPasswords){
             return true;
         }
-        for(int i = 0;i<k;i++){
-            currentPassword += to_string(i);
-            // see if last n digits have been formed or not
-            string last = getLastNDigits(currentPassword,n);
-            if(allPasswords.find(last) == allPasswords.end()){
-                allPasswords.insert(last);
-                if(start(n,k,currentPassword,allPasswords,total)){
+
+        for(int i=0;i<=k-1;i++){
+            currentPassword+=to_string(i);
+            string lastDigits = getLastNDigits(currentPassword,n);
+            if(allPasswords.find(lastDigits) == allPasswords.end()){
+                allPasswords.insert(lastDigits);
+                if(util(currentPassword,n,k)){
                     return true;
                 }
-                allPasswords.erase(last);
+                allPasswords.erase(lastDigits);
             }
             currentPassword.pop_back();
         }
         return false;
     }
-    
     string crackSafe(int n, int k) {
-        unordered_set<string>allPasswords;
-        string currentPassword(n - 1, '0');
-        int total = 1;
-        for (int i = 0; i < n; i++) total *= k;
-        start(n,k,currentPassword,allPasswords,total);
+        totalPasswords = pow(k,n);
+        string currentPassword(n, '0');
+        // Mark it as already included
+        allPasswords.insert(currentPassword);
+        util(currentPassword, n, k);
         return currentPassword;
 
     }
