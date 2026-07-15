@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0134-gas-station) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0139-word-break) |
