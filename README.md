@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
 | [0809-expressive-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0809-expressive-words) |
+| [0833-find-and-replace-in-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0833-find-and-replace-in-string) |
 | [0843-guess-the-word](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0843-guess-the-word) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0883-car-fleet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0883-car-fleet) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0791-custom-sort-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0791-custom-sort-string) |
+| [0833-find-and-replace-in-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0833-find-and-replace-in-string) |
 | [0904-fruit-into-baskets](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0929-unique-email-addresses) |
 | [0931-maximum-frequency-stack](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0931-maximum-frequency-stack) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0791-custom-sort-string) |
+| [0833-find-and-replace-in-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0833-find-and-replace-in-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0883-car-fleet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0883-car-fleet) |
 | [0975-odd-even-jump](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0975-odd-even-jump) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0791-custom-sort-string) |
 | [0809-expressive-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0809-expressive-words) |
+| [0833-find-and-replace-in-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0833-find-and-replace-in-string) |
 | [0843-guess-the-word](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0843-guess-the-word) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
 | [0916-decoded-string-at-index](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0916-decoded-string-at-index) |
