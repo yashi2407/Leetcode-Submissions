@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0018-4sum) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
