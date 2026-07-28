@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3881-minimize-maximum-component-cost](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3881-minimize-maximum-component-cost) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-report-spam-message](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3541-report-spam-message) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3713-longest-balanced-substring-i) |
@@ -1185,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1122-relative-sort-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Graph Theory
 |  |
 | ------- |
