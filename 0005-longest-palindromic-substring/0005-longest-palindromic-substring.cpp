@@ -1,37 +1,38 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
-
-    bool solve(string &s, int i, int j) {
+    bool isPalindrome(string &s, int i, int j, vector<vector<int>>&isPalindromTable){
+        // Base cases for short strings
         if (i >= j) return true;
-
-        if (dp[i][j] != -1) return dp[i][j];
-
-        if (s[i] == s[j]) {
-            return dp[i][j] = solve(s, i + 1, j - 1);
+        
+        // If already computed, return the cached result
+        if (isPalindromTable[i][j] != -1) {
+            return isPalindromTable[i][j];
         }
-
-        return dp[i][j] = false;
+        
+        // A string is a palindrome if edge characters match AND the inside matches
+        if (s[i] == s[j]) {
+            isPalindromTable[i][j] = isPalindrome(s, i + 1, j - 1, isPalindromTable);
+        } else {
+            isPalindromTable[i][j] = 0; // false
+        }
+        
+        return isPalindromTable[i][j];
     }
-
     string longestPalindrome(string s) {
-        int n = s.size();
-        dp.assign(n, vector<int>(n, -1));
-
-        int startIndex = 0;
-        int maxLength = 1;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                if (solve(s, i, j)) {
-                    if (j - i + 1 > maxLength) {
-                        maxLength = j - i + 1;
-                        startIndex = i;
+        string ans = "";
+        vector<vector<int>>isPalindromTable(s.size(),vector<int>(s.size(),-1));
+        for(int i = s.size()-1; i>=0;i--){
+            for(int j = i;j<s.size();j++){
+                if(i == j){
+                    isPalindromTable[i][j] = true;
+                }
+                if(isPalindrome(s,i,j,isPalindromTable)){
+                    if(j-i+1 > ans.size()){
+                        ans = s.substr(i,j-i+1);
                     }
                 }
             }
         }
-
-        return s.substr(startIndex, maxLength);
+        return ans;
     }
 };
