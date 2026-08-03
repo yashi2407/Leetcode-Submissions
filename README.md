@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0312-burst-balloons) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0289-game-of-life) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
