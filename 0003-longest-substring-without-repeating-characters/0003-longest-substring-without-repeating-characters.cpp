@@ -4,7 +4,7 @@ public:
         int i = 0;
         int j=0;
         int ans = 0;
-        map<char,int>mp;
+        unordered_map<char,int>mp;
         while(j<s.size()){
             // calculations of j
             mp[s[j]]++;
