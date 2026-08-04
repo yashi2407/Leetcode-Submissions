@@ -1215,4 +1215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0177-nth-highest-salary) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
