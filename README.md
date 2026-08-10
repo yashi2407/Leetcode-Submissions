@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0330-patching-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0330-patching-array) |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0455-assign-cookies) |
@@ -799,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0767-reorganize-string) |
@@ -857,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0761-special-binary-string) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1382-balance-a-binary-search-tree) |
@@ -868,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0767-reorganize-string) |
@@ -1010,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Graph
 |  |
@@ -1230,4 +1237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
