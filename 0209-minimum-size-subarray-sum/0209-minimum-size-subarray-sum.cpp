@@ -1,15 +1,15 @@
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
-        int ans = INT_MAX;
-        int i = 0; int j = 0;
+        int i = 0;
+        int j = 0;
         int currentSum = 0;
+        int ans = INT_MAX;
         while(j<nums.size()){
-            // do the calculations for j
             currentSum += nums[j];
-            while(currentSum >= target){
+            while(currentSum>=target){
                 ans = min(ans, j-i+1);
-                currentSum -= nums[i];
+                currentSum = currentSum - nums[i];
                 i++;
             }
             j++;
