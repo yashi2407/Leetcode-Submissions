@@ -1,43 +1,53 @@
 class Solution {
 public:
-    double findValue(string startNode, string endNode,unordered_map<string, vector<pair<string,double>>>&adj){
-        if(adj.find(startNode) == adj.end() || adj.find(endNode) == adj.end()) return -1.0;
-        queue<pair<string,double>> q;
+    double bfs(string startNode, string endNode, unordered_map<string,vector<pair<string,double>>>&mp){
         set<string>vis;
+        queue<pair<string,double>>q;
         q.push({startNode,1.0});
-        vis.insert(startNode);
         while(!q.empty()){
             string currentNode = q.front().first;
-            double currentValue = q.front().second;
+            double currentAns = q.front().second;
             q.pop();
             if(currentNode == endNode){
-                return currentValue;
+                return currentAns;
             }
-            for(auto it : adj[currentNode]){
-                if(vis.find(it.first) == vis.end()){
-                    double newValue = currentValue * it.second;
-                    q.push({it.first, newValue});
-                    vis.insert(it.first);
+            for(auto it : mp[currentNode]){
+                string nextNode = it.first;
+                double edge = it.second;
+                if(vis.find(nextNode) == vis.end()){
+                    double nextAns = currentAns * edge;
+                    q.push({nextNode, nextAns});
+                    q.push({nextNode,currentAns});
+                    vis.insert(nextNode);
                 }
             }
         }
-        return -1.0;
+        return (double) -1.0;
     }
     vector<double> calcEquation(vector<vector<string>>& equations, vector<double>& values, vector<vector<string>>& queries) {
-        int maxNodes = equations.size() * 2;
-        unordered_map<string, vector<pair<string,double>>> adj;
-        for(int i = 0;i<equations.size();i++){
-            string startNode = equations[i][0];
-            string endNode = equations[i][1];
-            double value = values[i];
-            adj[startNode].push_back({endNode,value});
-            adj[endNode].push_back({startNode,1.0/value});
-        }
+        unordered_map<string,vector<pair<string,double>>>mp;
         vector<double> ans;
-        for(int i = 0;i<queries.size();i++){
-            double tempAns = findValue(queries[i][0], queries[i][1],adj);
-            ans.push_back(tempAns);
+        for(int i = 0;i<equations.size();i++){
+            string nodeOne = equations[i][0];
+            string nodeTwo = equations[i][1];
+            double value = values[i];
+            mp[nodeOne].push_back({nodeTwo,value});
+            mp[nodeTwo].push_back({nodeOne,(1/value)});
+        }
+
+        for(int i = 0; i <queries.size();i++){
+            string startNode = queries[i][0];
+            string endNode = queries[i][1];
+            if(mp.find(startNode) == mp.end() || mp.find(endNode) == mp.end()){
+                ans.push_back(-1.0);
+            }
+            else{
+                // we do a traversal!
+                double value = bfs(startNode, endNode, mp);
+                ans.push_back(value);
+            }
         }
         return ans;
+
     }
 };
