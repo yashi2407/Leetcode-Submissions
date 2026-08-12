@@ -18,7 +18,6 @@ public:
                 ans += s[i];
             }
         }
-        // reverse(ans.begin(),ans.end());
         if(openCounter == 0){
             return ans;
         }
