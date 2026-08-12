@@ -11,23 +11,22 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* node , int &ans){
-        // base condition
-        if(node == NULL){
+    int util(TreeNode* root, int &ans){
+        if(root == NULL){
             return 0;
         }
-        int left = max(0,dfs(node->left,ans));
-        int right = max(0,dfs(node->right,ans));
-        // calcualtions
-        if(left+right+node->val>ans){
-            ans=left+right+node->val;
-        }
-        //return statement
-        return max(left,right)+node->val;
+        int left = util(root->left,ans);
+        int right = util(root->right,ans);
+        cout<<"left is"<<left<<endl<<"right is"<<right<<endl;
+        ans = max(ans, (root->val + left + right));
+        cout<<"ans now is"<<ans<<endl;
+        int returnValue = root->val + max(left,right);
+        cout<<"return value is"<<returnValue<<endl;
+        return max(0,returnValue);
     }
     int maxPathSum(TreeNode* root) {
         int ans = INT_MIN;
-        dfs(root,ans);
+        util(root,ans);
         return ans;
     }
 };
