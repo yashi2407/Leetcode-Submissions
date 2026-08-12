@@ -2,7 +2,7 @@ class Solution {
 public:
     string minRemoveToMakeValid(string s) {
         stack<int>st;
-        set<int>indexToSkip;
+        unordered_set<int>indexToSkip;
         string ans = "";
         for(int i=0;i<s.size();i++){
             if(s[i] == '('){
