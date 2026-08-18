@@ -11,23 +11,23 @@
  */
 class Solution {
 public:
-    int util(TreeNode* root, long long targetSum){
+    int util(TreeNode* root, int targetSum, long long currentSum){
         if(root == NULL){
             return 0;
         }
         int count = 0;
-        int left = util(root->left,targetSum-root->val);
-        int right = util(root->right,targetSum-root->val);
-        if(root->val == targetSum){
+        currentSum+= root->val;
+        if(currentSum == targetSum){
             count++;
         }
-        count = count + left + right;
+        count += util(root->left, targetSum, currentSum);
+        count += util(root->right,targetSum, currentSum);
         return count;
     }
     int pathSum(TreeNode* root, int targetSum) {
-        if(!root){
+        if(root == NULL){
             return 0;
         }
-        return util(root,(long long)targetSum) + pathSum(root->left,targetSum) + pathSum(root->right,targetSum);
+        return util(root,targetSum,0) + pathSum(root->left,targetSum) + pathSum(root->right,targetSum);
     }
 };
