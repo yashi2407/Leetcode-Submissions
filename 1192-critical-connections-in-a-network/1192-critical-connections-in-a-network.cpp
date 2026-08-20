@@ -29,7 +29,7 @@ public:
                         bridges.push_back({node, neighbor});
                     }
                 } else {
-                    low[node] = min(low[node], low[neighbor]);
+                    low[node] = min(low[node], discovery[neighbor]);
                 }
             }
         };
