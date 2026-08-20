@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0687-longest-univalue-path) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0472-concatenated-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0687-longest-univalue-path) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0687-longest-univalue-path) |
@@ -1170,11 +1173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0572-subtree-of-another-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1508-longest-happy-prefix) |
 ## Shortest Path
