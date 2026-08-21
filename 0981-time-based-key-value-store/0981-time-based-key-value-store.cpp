@@ -1,5 +1,6 @@
 class TimeMap {
 public:
+    // key -> value,timestamp
     unordered_map<string,vector<pair<string,int>>>mp;
     TimeMap() {
         
@@ -10,21 +11,24 @@ public:
     }
     
     string get(string key, int timestamp) {
-        if(mp.find(key) == mp.end()){
-            return "";
-        }
-        const auto & possibleValues = mp[key]; 
-        // 2. Binary search since data is already sorted by timestamp
-        int low = 0, high = possibleValues.size() - 1;
         string ans = "";
-        
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (possibleValues[mid].second <= timestamp) {
-                ans = possibleValues[mid].first; // Found a valid option, look for a closer one
-                low = mid + 1;
-            } else {
-                high = mid - 1;
+        int timestamp_prev = -1;
+        auto& binarySearch = mp[key];
+        int low = 0;
+        int high = binarySearch.size()-1;
+        while(low<=high){
+            int mid = (low + high)/2;
+            // this is highest possible
+            if(binarySearch[mid].second == timestamp){
+                return binarySearch[mid].first;
+            }
+            // the currenttimestamp is bigger than given
+            else if(binarySearch[mid].second > timestamp){
+                high = mid-1;
+            }
+            else {
+                ans = binarySearch[mid].first;
+                low = mid+1;
             }
         }
         return ans;
