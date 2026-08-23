@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    void util(TreeNode* root, int targetSum,vector<vector<int>>&ans,vector<int>currentPath){
+    void util(TreeNode* root, int targetSum,vector<vector<int>>&ans,vector<int>&currentPath){
         if(root == NULL){
             return;
         }
