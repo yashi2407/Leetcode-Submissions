@@ -15,12 +15,10 @@ public:
         if(root == NULL){
             return false;
         }
-        // terminating condition
-        targetSum = targetSum - root->val;
-        if(targetSum == 0 && root->left == NULL &&root->right == NULL){
-            return true;
+        // leaf node
+        if(root->left == NULL && root->right == NULL){
+            return root->val == targetSum;
         }
-        // goto left and right
-        return hasPathSum(root->left,targetSum) || hasPathSum(root->right,targetSum);
+        return hasPathSum(root->left,targetSum-root->val) || hasPathSum(root->right,targetSum-root->val);
     }
 };
