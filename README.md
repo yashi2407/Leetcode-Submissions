@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1975-maximum-matrix-sum) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2176-parallel-courses-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Binary Tree
 |  |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Sorting
 |  |
 | ------- |
@@ -1042,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1058,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Quickselect
 |  |
@@ -1265,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-cracking-the-safe) |
 | [1192-critical-connections-in-a-network](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1192-critical-connections-in-a-network) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Game Theory
 |  |
 | ------- |
