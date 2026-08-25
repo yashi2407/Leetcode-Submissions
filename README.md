@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1054-distant-barcodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1054-distant-barcodes) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1122-relative-sort-array) |
 | [1185-find-in-mountain-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1185-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1200-minimum-absolute-difference) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1094-car-pooling) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3714-longest-balanced-substring-ii) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1054-distant-barcodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1054-distant-barcodes) |
+| [1094-car-pooling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1200-minimum-absolute-difference) |
 | [1308-smallest-string-with-swaps](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1308-smallest-string-with-swaps) |
@@ -940,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1054-distant-barcodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1054-distant-barcodes) |
+| [1094-car-pooling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1251,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
+| [1094-car-pooling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
