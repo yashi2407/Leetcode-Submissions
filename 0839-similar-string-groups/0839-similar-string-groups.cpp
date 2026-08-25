@@ -33,7 +33,7 @@ public:
                     c2 = s1[i];
                     c4 = s2[i];
                 }
-                else if(count>2){
+                else if(count>1){
                     return false; // not similar
                 }
                 count++;
