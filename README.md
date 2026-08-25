@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1192-critical-connections-in-a-network) |
 | [1308-smallest-string-with-swaps](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1382-balance-a-binary-search-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1281,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-cracking-the-safe) |
 | [1192-critical-connections-in-a-network](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1192-critical-connections-in-a-network) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Game Theory
 |  |
