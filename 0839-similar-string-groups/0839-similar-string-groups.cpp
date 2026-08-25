@@ -47,7 +47,7 @@ public:
     int numSimilarGroups(vector<string>& strs) {
         unordered_map<string,vector<string>>mp;
         for(int i = 0;i<strs.size();i++){
-            for(int j = 0;j<strs.size();j++){
+            for(int j = i+1;j<strs.size();j++){
                 if(i!=j && isSimilar(strs[i],strs[j])){
                     mp[strs[i]].push_back(strs[j]);
                     mp[strs[j]].push_back(strs[i]);
