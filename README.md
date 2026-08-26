@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0419-battleships-in-a-board) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1116,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0310-minimum-height-trees) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2176-parallel-courses-iii) |
 ## Memoization
@@ -1302,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-cracking-the-safe) |
