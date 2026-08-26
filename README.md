@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-cracking-the-safe) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0839-similar-string-groups](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0839-similar-string-groups) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [0753-open-the-lock](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-open-the-lock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0839-similar-string-groups](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0839-similar-string-groups) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
@@ -1242,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Interactive
@@ -1300,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0753-cracking-the-safe) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2101-detonate-the-maximum-bombs) |
