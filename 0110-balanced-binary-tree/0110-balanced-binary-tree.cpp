@@ -11,24 +11,23 @@
  */
 class Solution {
 public:
-     int util(TreeNode* root) {
-        if (root == nullptr) return 0;
-
-        int left = util(root->left);
-        if (left == -1) return -1;
-
-        int right = util(root->right);
-        if (right == -1) return -1;
-
-        if (abs(left - right) > 1) return -1;
-
-        return 1 + max(left, right);
+    int maxDepth(TreeNode* root) {
+        if(root == NULL){
+            return 0;
+        }
+        int left = maxDepth(root->left);
+        int right = maxDepth(root->right);
+        // not balanced!!
+        if(left == -1 || right == -1 || abs(left-right)>1){
+            return -1;
+        }
+        return 1 + max(left,right);
+        
     }
     bool isBalanced(TreeNode* root) {
-        if(util(root) == -1){
-            return false;
+        if(root == NULL){
+            return true;
         }
-
-        return true;
+        return maxDepth(root) == -1 ? false : true;
     }
 };
