@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0127-word-ladder) |
