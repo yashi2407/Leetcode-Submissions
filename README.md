@@ -1375,4 +1375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1192-critical-connections-in-a-network) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
