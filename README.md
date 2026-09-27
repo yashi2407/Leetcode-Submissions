@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0768-partition-labels) |
 | [0809-expressive-words](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0809-expressive-words) |
+| [0844-backspace-string-compare](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0843-guess-the-word) |
+| [0844-backspace-string-compare](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [0868-push-dominoes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0868-push-dominoes) |
 | [0916-decoded-string-at-index](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0916-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1034,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0883-car-fleet) |
 | [0916-decoded-string-at-index](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0916-decoded-string-at-index) |
@@ -1291,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
