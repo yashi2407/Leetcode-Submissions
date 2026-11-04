@@ -36,38 +36,27 @@ public:
         int i = 0;
         int j = 0;
         int ans = 0;
-        long long covered = LLONG_MIN;
+        int current = newTargetIntervals[0][0];
 
         while (j < newTargetIntervals.size()) {
-            long long start = newTargetIntervals[j][0];
-            long long end = newTargetIntervals[j][1];
-
-            if (covered >= end) {
-                j++;
-                continue;
-            }
-
-            long long current = max(covered, start);
-            long long maxReach = covered;
-
-            while (i < availableIntervals.size() &&
-                   availableIntervals[i][0] <= current) {
-                maxReach = max(maxReach,
-                               (long long)availableIntervals[i][1]);
+            int maxReach = -1;
+            // let's move i first to get the max Reach!
+            while(i<availableIntervals.size() && availableIntervals[i][0]<=current){
+                maxReach = max(maxReach,availableIntervals[i][1]);
                 i++;
             }
-
-            if (maxReach < current ||
-                (covered >= start && maxReach <= covered))
+            if(maxReach == -1){
                 return -1;
-
-            covered = maxReach;
-            ans++;
-
-            while (j < newTargetIntervals.size() &&
-                   newTargetIntervals[j][1] <= covered) {
+            }
+            //[current,maxReach covered]
+            while(j<newTargetIntervals.size() && newTargetIntervals[j][1]<=maxReach){
                 j++;
             }
+            ans++;
+            if(j == newTargetIntervals.size()){
+                return ans;
+            }
+            current = max(maxReach,newTargetIntervals[j][0]);
         }
 
         return ans;
