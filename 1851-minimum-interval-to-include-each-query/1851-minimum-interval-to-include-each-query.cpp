@@ -29,7 +29,6 @@ public:
 
 
             while (!minHeap.empty() && minHeap.top().second < query) {
-                cout<<"popping"<<minHeap.top().second<<endl;
                 minHeap.pop();
             }
 
