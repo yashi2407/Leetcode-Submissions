@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1917-maximum-average-pass-ratio](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1975-maximum-matrix-sum) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1503-reducing-dishes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -982,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1499-maximum-performance-of-a-team](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1499-maximum-performance-of-a-team) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1917-maximum-average-pass-ratio](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
@@ -1394,4 +1398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
