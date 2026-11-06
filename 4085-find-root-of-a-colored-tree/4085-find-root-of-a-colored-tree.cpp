@@ -38,9 +38,9 @@ public:
                     return -1;
                 root = i;
             }
-            else if (inDegree[i] != 1) {
-                return -1;
-            }
+            // else if (inDegree[i] != 1) {
+            //     return -1;
+            // }
         }
 
         return root;
