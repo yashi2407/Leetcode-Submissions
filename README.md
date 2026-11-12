@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3026-maximum-good-subarray-sum) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
