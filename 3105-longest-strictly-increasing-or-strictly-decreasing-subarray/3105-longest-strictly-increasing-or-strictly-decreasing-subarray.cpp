@@ -13,6 +13,7 @@ public:
             i++;
         }
         i = 0;
+        // strictly decreasing
         while(i<nums.size()){
             int start = i;
             while(i<nums.size()-1 && nums[i]>nums[i+1]){
