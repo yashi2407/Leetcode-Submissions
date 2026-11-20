@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1122-relative-sort-array) |
+| [1140-stone-game-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1185-find-in-mountain-array](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1185-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0975-odd-even-jump](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0975-odd-even-jump) |
+| [1140-stone-game-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [3026-maximum-good-subarray-sum](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3026-maximum-good-subarray-sum) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/yashi2407/Leetcode-Submissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -1097,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
 | [0843-guess-the-word](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0843-guess-the-word) |
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1448-maximum-69-number) |
@@ -1346,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0843-guess-the-word](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0843-guess-the-word) |
+| [1140-stone-game-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 ## Eulerian Circuit
 |  |
@@ -1409,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -1421,5 +1427,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
