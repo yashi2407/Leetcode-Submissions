@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1503-reducing-dishes](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1503-reducing-dishes) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1406-stone-game-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1448-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
@@ -1351,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0843-guess-the-word](https://github.com/yashi2407/Leetcode-Submissions/tree/master/0843-guess-the-word) |
 | [1140-stone-game-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 ## Eulerian Circuit
 |  |
@@ -1415,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -1428,5 +1433,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yashi2407/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
